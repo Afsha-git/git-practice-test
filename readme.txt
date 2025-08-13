@@ -1,2 +1,2 @@
-# MY name ( dont want to write real name)
+MY name ( dont want to write real name)
 hello git 
